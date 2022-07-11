@@ -1,6 +1,6 @@
-# catsdogs
+# Cats and Dogs Classifier
 
-A new Flutter project.
+A Flutter app used to identify cats and dogs. 
 
 ## Getting Started
 
